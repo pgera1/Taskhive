@@ -6,6 +6,8 @@ Demo — Open in CodeSandbox
 
 Open the repository in CodeSandbox with one click:
 
+https://codesandbox.io/p/sandbox/github/pgera1/Taskhive
+
 Open Taskhive in CodeSandbox
 
 If the link doesn't work for you, follow the manual CodeSandbox instructions below.
