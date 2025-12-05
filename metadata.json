@@ -1,0 +1,5 @@
+{
+  "name": "TaskHive",
+  "description": "A comprehensive project management tool featuring interactive Kanban boards and progress tracking. Manage projects, assign tasks, and visualize progress in a modern React application.",
+  "requestFramePermissions": []
+}
