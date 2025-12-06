@@ -42,25 +42,3 @@ If the repo has a root package.json, CodeSandbox will detect it and run the dev 
 
 If the project requires a backend server, CodeSandbox may not run the backend automatically — consider using a mock API or deploying the backend elsewhere and configuring environment variables.
 
-Run locally
-
-Clone the repo and run it on your machine.
-
-# 1. Clone
-git clone https://github.com/pgera1/Taskhive.git
-cd Taskhive
-
-# 2. Install dependencies
-npm install
-# or
-yarn
-
-# 3. Start (development)
-npm run start
-# or
-yarn start
-
-# 4. Build for production
-npm run build
-# or
-yarn build
